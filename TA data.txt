@@ -1,0 +1,21 @@
+INSERT INTO TA (NAME, EMAIL) VALUES 
+
+    ('York', 'm11102206@gapps.ntust.edu.tw'), 
+
+    ('Terry', 'm11102218@mail.ntust.edu.tw'), 
+
+    ('Anna', 'm11102266@mail.ntust.edu.tw'), 
+
+    ('Wendy', 'm11102217@mail.ntust.edu.tw'), 
+
+    ('Kevin', 'm11202268@mail.ntust.edu.tw'), 
+
+    ('Jimmy', 'm11202257@mail.ntust.edu.tw'), 
+
+    ('LTY', 'm11202271@mail.ntust.edu.tw'), 
+
+    ('Angel', 'm11202296@mail.ntust.edu.tw'), 
+
+    ('Zyan', 'm11102815@mail.ntust.edu.tw'), 
+
+    ('John', 'tateljohnleo31@gmail.com'); 

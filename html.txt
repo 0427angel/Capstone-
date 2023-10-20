@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>angel's class</title>
+    </head>
+    <body>
+        <h2>Angel's class</h2>
+        <form action="http://192.168.1.218:5000/add_ta" method="POST">
+            Name <input type="text" name="Name" required />
+            <br>
+            Email <input type="email" name="Email" required />
+            <br>
+            <button type="submit">Add</button>
+        </form>
+        <br>
+        <form action="http://192.168.1.218:5000/ta" method="GET">
+            <button type="submit">Get Data</button>
+        </form>
+
+    </body>
+</html>
